@@ -1,9 +1,9 @@
-<?php namespace duongnam99\Read_pdf;
+<?php namespace duongnam99\ReadPDF;
 
     use ReadPDF\Exceptions\FindException;
     use ReadPDF\Exceptions\ReadException;
 
-class Read_pdf{
+class ReadPDF{
     private $p;
     private $ouput = array();
     private $readfile;
