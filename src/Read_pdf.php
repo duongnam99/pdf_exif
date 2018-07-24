@@ -51,8 +51,8 @@ class Read_pdf{
 }
 
 
-$a = new Read_pdf('clone_pdfa.pdf');
-echo '<pre>';
-print_r($a->get_all());
+// $a = new Read_pdf('clone_pdfa.pdf');
+// echo '<pre>';
+// print_r($a->get_all());
 
 ?>
