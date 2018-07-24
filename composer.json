@@ -1,12 +1,11 @@
 {
-    "name": "buonzz/composer-library-template",
-    "description": "Boilerplate package for creating other packages.",
-    "keywords": ["template", "composer", "package"],
-    "license": "DBAD",
+    "name": "duongnam99/Read_pdf",
+    "description": "package - pdflib",
+    "keywords": ["pdflib", "composer", "package"],
     "authors": [
         {
-            "name": "Darwin Biler",
-            "email": "buonzz@gmail.com"
+            "name": "Duong Minh Nam",
+            "email": "duongminhnam99@gmail.com"
         }
     ],
     "type": "project",
@@ -18,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Buonzz\\Template\\": "src/"
+            "duongnam99\\Template\\": "src/"
         }
     }
 }
